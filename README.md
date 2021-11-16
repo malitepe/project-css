@@ -1,1 +1,1 @@
-# this is a CSS homework on [patika.dev]patika.dev 
+# this is a CSS homework on [patika](patika.dev) 
